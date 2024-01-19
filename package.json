@@ -1,0 +1,25 @@
+{
+  "name": "italian-theme",
+  "displayName": "italian theme",
+  "description": "ummm this is an just a cool ltalian vinatge theme i make for myself",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "italian theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/italian theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "tanmay4l", 
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
